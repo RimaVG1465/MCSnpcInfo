@@ -1,6 +1,9 @@
 - Plugin Ini Diciptakan Khusus Untuk Slapper, Npc Setelah Menekan Akan Menampilkan Informasi
 Server. Dan Anda Dapat Mengedit Nya!,
 
+- This plugin was created specifically for slappers, after pressing the npc will display information
+Servers. And You Can Edit It!,
+
 Thank you for downloading the plugin! we will add features in the future
 📢:
 🔥:
