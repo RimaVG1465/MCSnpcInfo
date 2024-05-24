@@ -1,0 +1,16 @@
+name: MCSnpcInfo
+version: 1.4.2
+description: The plugin info players when touched using your server NPC,
+                       =//zlibs\\RimaVG1465Dev//=
+main: RimaVG1465\Main
+api: 5.15.0
+
+commands:
+  info:
+    description: Displays Information About the Server.
+    usage: /info
+    permission: info.command
+    
+permissions:
+  info.command:
+    default: true
